@@ -21,3 +21,5 @@ password: administrator
    ```bash
    python manage.py test task
    ```
+
+Docs available at: http://localhost:8000/docs/
